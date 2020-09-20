@@ -158,8 +158,16 @@ h3{
 }
     /* END */
 
+.box{
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
 
-.search-engine-optimization {
+/* .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -184,9 +192,12 @@ h3{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-}
+} */
 
-.search-engine-optimization img {
+.box img{
+    max-height: 200px;
+}
+/* .search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -196,7 +207,7 @@ h3{
 
 .social-media-marketing img {
     max-height: 200px;
-}
+} */
 
     /* condensed and removed h2 class */
 h2{
