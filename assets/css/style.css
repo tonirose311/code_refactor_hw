@@ -91,7 +91,7 @@ p {
 }
 
 
-.benefit-lead {
+/* .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -102,6 +102,11 @@ p {
 }
 
 .benefit-cost {
+    margin-bottom: 32px;
+    color: #ffffff;
+} */
+
+.sidebar{
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -129,7 +134,7 @@ h3{
     /* END */
 
 
-.benefit-lead img {
+/* .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -145,8 +150,15 @@ h3{
     display: block;
     margin: 10px auto;
     max-width: 150px;
-}
+} */
 
+.sidebar img{
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+    
+    
+}
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -174,6 +186,7 @@ h3{
     background-color: #0072bb;
     color: #ffffff;
 }
+
 
 .search-engine-optimization img {
     max-height: 200px;
